@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import kr.tjeit.datas.Person;
-
+//깃허브가 연동됬다.
 public class MainDrive {
 	
 	//static Person[] peopleList = new Person[100];
